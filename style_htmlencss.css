@@ -1,0 +1,63 @@
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.center {
+    margin: 0 auto;
+    width: 800px;
+}
+
+h1 {
+    font-size: 36px;
+
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.p1 {
+    background-color: #def6ed;
+    border-radius: 4px;
+    padding: 25px;
+}
+
+ul li {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+ol li {
+    margin-bottom:20px;
+}
+
+.topnav {
+    margin: 0 auto;
+    width: 800px;
+    background-color:black;
+    overflow: hidden;
+    
+  }
+  
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+    font-size: 22px;
+  }
+  
+  .topnav a:hover {
+    background-color: grey;
+    color: white;
+  }
+  
+  .topnav a.active {
+    background-color: grey;
+    color: white;
+  }
